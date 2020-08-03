@@ -1,5 +1,5 @@
 # static-placeholder-website
-Simple static website for AWS experiment served using an Nginx container inside Docker. The code for the site is contained in `index.html`, and the Nginx config is in `default.conf`.
+Simple static website for AWS and Docker experiments served using an Nginx container inside Docker. The code for the site is contained in `index.html`, and the Nginx config is in `default.conf`.
 
 To build a Docker image from the Dockerfile:
 
